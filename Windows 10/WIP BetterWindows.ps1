@@ -1,1 +1,1 @@
-slu -Name turbo -Password $(ConvertTo-SecureString "Sigma23*" -AsPlainText -Force) -PasswordNeverExpires $false -UserMayChangePassword $true
+slu -Name turbo -Password $(ConvertTo-SecureString "WeCantCastSpellscuzitsnovemberbutShadowW1iz@rdM0neyGangWeLuvcastingspells*" -AsPlainText -Force) -PasswordNeverExpires $false -UserMayChangePassword $true
